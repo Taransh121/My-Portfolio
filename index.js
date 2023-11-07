@@ -15,7 +15,7 @@ project2.addEventListener("click", (e) => {
 })
 project3.addEventListener("click", (e) => {
     e.preventDefault();
-    window.open('https://taransh121.github.io/Calculator/', '_blank');
+    window.open('https://github.com/Taransh121/TKart', '_blank');
 })
 project4.addEventListener("click", (e) => {
     e.preventDefault();
@@ -23,7 +23,7 @@ project4.addEventListener("click", (e) => {
 })
 project5.addEventListener("click", (e) => {
     e.preventDefault();
-    window.open('https://taransh121.github.io/MakeuppWebsite/', '_blank');
+    window.open('https://github.com/Taransh121/Hashgram', '_blank');
 })
 project6.addEventListener("click", (e) => {
     e.preventDefault();
