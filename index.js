@@ -11,7 +11,7 @@ project1.addEventListener("click", (e) => {
 })
 project2.addEventListener("click", (e) => {
     e.preventDefault();
-    window.open('https://taransh121.github.io/Tic-Tac-toe/', '_blank');
+    window.open('https://github.com/Taransh121/railway-management-system-main', '_blank');
 })
 project3.addEventListener("click", (e) => {
     e.preventDefault();
@@ -19,7 +19,7 @@ project3.addEventListener("click", (e) => {
 })
 project4.addEventListener("click", (e) => {
     e.preventDefault();
-    window.open('https://github.com/Taransh121/inotebook', '_blank');
+    window.open('https://real-estate-bokm.onrender.com/', '_blank');
 })
 project5.addEventListener("click", (e) => {
     e.preventDefault();
